@@ -1,3 +1,13 @@
 {
-  "transactions": []
+  "transactions": [
+    {
+      "id": 1,
+      "title": "Test1",
+      "amount": 123,
+      "category": "Entertainment",
+      "date": "2025-03-28",
+      "payment": "Cash",
+      "icon": "fa-play"
+    }
+  ]
 }
