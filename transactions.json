@@ -8,6 +8,15 @@
       "date": "2025-03-28",
       "payment": "Cash",
       "icon": "fa-play"
+    },
+    {
+      "id": 2,
+      "title": "Test2",
+      "amount": -123,
+      "category": "Groceries",
+      "date": "2025-03-28",
+      "payment": "Credit Card",
+      "icon": "fa-shopping-cart"
     }
   ]
 }
