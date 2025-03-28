@@ -26,6 +26,15 @@
       "date": "2025-03-28",
       "payment": "Cash",
       "icon": "fa-play"
+    },
+    {
+      "id": 4,
+      "title": "Test4",
+      "amount": 12345,
+      "category": "Food",
+      "date": "2025-03-28",
+      "payment": "Debit Card",
+      "icon": "fa-utensils"
     }
   ]
 }
